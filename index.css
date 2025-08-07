@@ -18,6 +18,7 @@ nav{
 }
 
 
+
 .b-img{
   background-image:url(../image/Hero-bg.png);
    width: 100%;
@@ -132,6 +133,7 @@ background-color:rgb(153, 179, 235);
 .star3{
    text-align: justify;
    justify-content: space-between;
+
 }
 .star4{
    font-size: 1em;
@@ -187,6 +189,7 @@ background-color:rgb(153, 179, 235);
  .rana3{
    text-decoration: none;
    display: flex;
+   margin-left: 3px;
 }
 .rana1{
    color: blue;
